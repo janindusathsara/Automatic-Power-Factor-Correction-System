@@ -29,8 +29,12 @@ Key elements include:
 A Simulink model was developed to evaluate the performance of the proposed APFC system under varying load conditions.
 
 <p align="center">
-  <img src="Simulation.svg" width="600">
+  <img src="Simulation.svg" width="1000">
 </p>
+<p align="center">
+  <em> 📷 Screenshot: MATLAB - Simulink simulation </em>
+</p>
+
 
 The simulation demonstrates:
 - Improvement of power factor from low values (~0.75–0.80) to near unity (~0.98–1.00)
